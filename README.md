@@ -1,6 +1,6 @@
 # Hand gesture detector Tensorflow.js
 
-[Live Demo](https://yolo-live-detection.vercel.app)
+[Live Demo](https://gesture-detection.vercel.app)
 
 Features:
 
